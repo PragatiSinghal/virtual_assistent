@@ -8,7 +8,7 @@ A virtual assistent for desktop written in Python.The basic purpose of this is t
 3. wikipedia - Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia.
  
 
-#Python Modules used:
+# Python Modules used:
 1. datetime - The datetime module supplies classes for manipulating dates and times.
 2. webbrowser - The webbrowser module provides a high-level interface to allow displaying web-based documents to users.
 3. os - This module provides a portable way of using operating system dependent functionality.
